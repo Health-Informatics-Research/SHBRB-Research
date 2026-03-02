@@ -1,0 +1,6 @@
+Group,Status,Method,Mean,Std,Min,Max
+Psychological,Success,CFA,-0.0,1.0005,-1.7975,1.9548
+Physical,Success,Entropy,0.0,1.0005,-1.0997,1.71
+Environmental,Success,PCA,0.0,1.0005,-3.7672,2.5108
+Academic,Success,SEM,0.0,1.2825,-2.3406,2.469
+Social,Success,PCA,-0.0,1.0005,-2.7005,1.7759
